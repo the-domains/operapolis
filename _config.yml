@@ -1,0 +1,14 @@
+layout_spectrum: 0.2526882
+typography_spectrum: 0.7885252
+color:
+  saturation: 0.3136201
+  brandStrength: 0.7921147
+  lightness: 1
+  brandColors:
+    - '#FFF3FE'
+    - '#FF01FF'
+    - '#FFBDFF'
+    - '#D880D7'
+    - '#D139D0'
+  rhythmicContrast: 0.2921147
+name: OPERAPOLIS
