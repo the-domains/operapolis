@@ -1,9 +1,20 @@
-layout_spectrum: 0.2526882
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7885252
 color:
-  saturation: 0.3136201
-  brandStrength: 0.7921147
-  lightness: 1
+  saturation: 0.4569893
+  lightness: 0.7168459
+  brandStrength: 0.7204301
   brandColors:
     - '#FFF3FE'
     - '#FF01FF'
@@ -11,4 +22,5 @@ color:
     - '#D880D7'
     - '#D139D0'
   rhythmicContrast: 0.2921147
+layout_spectrum: 0.281362
 name: OPERAPOLIS
