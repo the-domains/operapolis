@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.5752688
 color:
   saturation: 0.8637993
-  brandStrength: 0.5698925
   lightness: 1
+  brandStrength: 0.5698925
   brandColors:
-    - '#DFE2F3'
-    - '#9BA2E4'
-    - '#274C87'
-    - '#21B3C6'
-    - '#434BFA'
+    - '#FFF3FE'
+    - '#FF01FF'
+    - '#FFBDFF'
+    - '#D880D7'
+    - '#D139D0'
   rhythmicContrast: 0.4802867
-typography_spectrum: 0.5752688
 layout_spectrum: 0.281362
 name: OPERAPOLIS
