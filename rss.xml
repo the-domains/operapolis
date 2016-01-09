@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[OPERAPOLIS]]></title>
         <description><![CDATA[OPERAPOLIS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/operapolis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 05:55:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 06:49:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/operapolis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OPERAPOLIS - BUMP OF CHICKEN「Butterflies」 Release : 2016.02.10...]]></title>
+            <description><![CDATA[<article><h1>OPERAPOLIS - BUMP OF CHICKEN「Butterflies」 Release : 2016.02.10...</h1><p>BUMP OF CHICKEN「Butterflies」 Release : 2016.02.10 01 - GO 02 - Hello,world! 03 - Butterfly 04 - 流星群 05 - 宝石になった日 06 - コロニー 07 - パレード 08 - 大我慢大会 09 - 孤独の合唱 10 - You were here 11 - ファイター</p><img src="https://41.media.tumblr.com/84204fb4eeee39d16d0023615db76154/tumblr_inline_o08b1uJkGd1srd30n_540.jpg"></article>]]></description>
+            <link>http://operapolis.tumblr.com/post/135340679521/bump-of-chickenbutterflies-release-20160210</link>
+            <guid isPermaLink="false">7e201c92-a720-4bed-b1cc-256dc7e9f9ad</guid>
+            <pubDate>Sat, 09 Jan 2016 06:49:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f001e360-b153-46c7-9901-ef511ed3b4ec.png">]]></description>
-            <link>undefined38af1770-1ffd-4a21-a913-02620c2505ab/index.html</link>
+            <link>https://thegrid.ai/operapolis/38af1770-1ffd-4a21-a913-02620c2505ab/index.html</link>
             <guid isPermaLink="false">38af1770-1ffd-4a21-a913-02620c2505ab</guid>
             <pubDate>Fri, 08 Jan 2016 05:55:37 GMT</pubDate>
         </item>
